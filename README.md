@@ -1,6 +1,7 @@
-# Hi there, I am Akhmadillo! 👋
+# Hi there, I'm Akhmadillo! 👋
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=akhmadmamirov&show_icons=true&theme=radical" />
+![Akhmadillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhmadmamirov&show_icons=true&theme=radical)
 
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadmamirov&layout=compact" />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/akhmadillo)](https://leetcode.com/akhmadillo)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadmamirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
