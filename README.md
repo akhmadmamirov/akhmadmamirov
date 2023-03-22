@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔥 I’m currently working on JavaScript + React + Microservices
+- 🔥 I’m currently working on JavaScript + Microservices
 - 👯 I’m looking to collaborate on ^
 
 
