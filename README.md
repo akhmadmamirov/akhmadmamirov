@@ -9,7 +9,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=akhmadmamirov)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/akhmadillo)](https://leetcode.com/akhmadillo)
 
 <!--
 
