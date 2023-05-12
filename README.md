@@ -1,8 +1,7 @@
-# Hi there, I'm Akhmadillo! 👋
+# Hello, I'm Akhmad! 👋
 
 
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=akhmadmamirov)
 
