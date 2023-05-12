@@ -1,4 +1,4 @@
-# Hello, I'm Akhmadillo! 🚀
+# Hello, I'm Akhmad! 🚀
 
 
 
