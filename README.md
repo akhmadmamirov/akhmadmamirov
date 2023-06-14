@@ -13,7 +13,5 @@ I am a Fire Student and Agile Developer, passionate about Microservices, Cloud A
 ![trophy](https://github-profile-trophy.vercel.app/?username=akhmadmamirov)
 
 
-- 🔭 I’m currently working on DevCamper Backend API
-
 - 🔥 I’m currently working on Firebase + React/Redux
 - 👯 I’m looking to collaborate on ^
