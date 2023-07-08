@@ -13,8 +13,6 @@ I am a Fire Student and Agile Developer, passionate about Microservices, Cloud A
 ![Akhmadillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhmadmamirov&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadmamirov&layout=compact&theme=tokyonight)](https://github.com/akhmadmamirov)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=akhmadmamirov)
 
-
-- 🔥 I’m currently working on Firebase + React/Redux
+- 🔥 I’m currently working on Microservices with React and Node.js
 - 👯 I’m looking to collaborate on ^
