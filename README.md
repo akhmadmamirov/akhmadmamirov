@@ -1,4 +1,4 @@
-# Hello, I'm Akhmad! 🚀
+# Hey, This is Akhmad! 🚀
 
 
 I am a Fire Student and Agile Developer, passionate about Microservices, Cloud Architecture & Orchestration, API/backend design, BFF, and Front End React development.
