@@ -14,5 +14,5 @@ I am a Fire Student and Agile Developer, passionate about Microservices, Cloud A
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadmamirov&layout=compact&theme=tokyonight)](https://github.com/akhmadmamirov)
 
 
-- 🔥 I’m currently working on Microservices with React and Node.js
+- 🔥 I’m currently working on building Microservices with React and Node.js
 - 👯 I’m looking to collaborate on ^
