@@ -12,7 +12,9 @@ I am a Fire Student and Agile Developer, passionate about Microservices, Cloud A
 
 * EXPERIENCE
 AtomRain Inc - Software Engineer Intern | Wooster, OH
-May 2023 – July 2023 • Modified frontend UI components in React, Redux to match specifications for the GraphGrid CDP (Connected Data
+May 2023 – July 2023
+
+• Modified frontend UI components in React, Redux to match specifications for the GraphGrid CDP (Connected Data
 Platform), ensuring rapid delivery of high-quality front-end solutions.
 • Accelerated scalability and code maintainability through codebase-wide upgrades of Node.js and React, troubleshooting, and implementing requested features.
 • Engaged in team discussions and sprint meetings, actively participating in code reviews and resolving merge conflicts.
