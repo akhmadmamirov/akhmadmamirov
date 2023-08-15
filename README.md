@@ -23,9 +23,5 @@ Platform), ensuring rapid delivery of high-quality front-end solutions.
 
 ![!](https://komarev.com/ghpvc/?username=akhmadmamirov&color=brightgreen)
 
-![Akhmadillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhmadmamirov&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadmamirov&layout=compact&theme=tokyonight)](https://github.com/akhmadmamirov)
-
-
 - 🔥 I’m currently working on building Microservices with React and Node.js
 - 👯 I’m looking to collaborate on ^
