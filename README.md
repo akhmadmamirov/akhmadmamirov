@@ -8,3 +8,5 @@
 - JavaScript, Python, noSQL (MongoDB)
 - **Tech Queue:**
 - C++, React.js, Node.js, CSS & SASS
+- **Preference:**
+- Dark Theme
