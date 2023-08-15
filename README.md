@@ -1,13 +1,12 @@
 # Welcome to My GitHub Profile! 👋
 
 Hey there, fellow developers and tech enthusiasts! I'm thrilled to have you explore my GitHub profile. Let's embark on a journey through my coding realm, where I wield my skills as a Fire Student and Agile Developer to craft innovative solutions.
+<!--   my-header-img -->
+![](header_.png)
 
 ## About Me
 
 I'm deeply passionate about Microservices, Cloud Architecture & Orchestration, API/backend design, BFF (Backend for Frontend), and Front End React development. My mission is to bridge the gap between creativity and functionality, creating seamless user experiences that leave a lasting impact.
-
-<!--   my-header-img -->
-![](header_.png)
 
 ## 🔥 Fire Skills and Abilities
 
