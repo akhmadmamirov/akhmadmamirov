@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 👋 Hello there, fellow developers and tech enthusiasts! I'm thrilled to have you explore my GitHub profile. Let's embark on a journey through my coding realm, where I wield my skills as a Fire Student and Agile Developer to craft innovative solutions.
 
 <!--   my-header-img -->
