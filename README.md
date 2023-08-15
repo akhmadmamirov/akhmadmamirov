@@ -6,5 +6,5 @@
 
 - **Weapon of Choice:**
 - JavaScript, Python, noSQL (MongoDB)
-- **& Tech Stack:**
+- **Tech Queue:**
 - C++, React.js, Node.js, CSS & SASS
