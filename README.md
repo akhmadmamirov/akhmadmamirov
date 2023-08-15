@@ -6,7 +6,6 @@
 
 - **Weapon of Choice:**
 - JavaScript, Python, noSQL (MongoDB)
-- **Tech Queue:**
+- **Tech Stack:**
 - C++, React.js, Node.js, CSS & SASS
-- **Preference:**
-- Dark Theme
+
