@@ -1,20 +1,10 @@
 # Akhmadillo Mamirov
 
-- Student: The College of Wooster
-- Major: Computer Science
-- Graduation Year: 2026
-- 
-*Weapon of Choice*:
-  - JavaScript
-  - Python
-  - noSQL (MongoDB)
+- 🎓 The College of Wooster | May 2026
+- 💼 AtomRain Inc | Software Engineer Intern | May - July, 2023
+- 🏊‍♂️ Swimming in AI/ML & Microservices
 
-Tech Stack
-- C++
-- React.js
-- node.js
-- CSS & SASS
-
-***Swimming:*
-- AI/ML
-- Microservices 
+- **Weapon of Choice:**
+- JavaScript, Python, noSQL (MongoDB)
+- **& Tech Stack:**
+- C++, React.js, Node.js, CSS & SASS
