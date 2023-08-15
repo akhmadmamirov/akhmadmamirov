@@ -15,6 +15,6 @@ Tech Stack
 - node.js
 - CSS & SASS
 
-*Swimming:*
+***Swimming:*
 - AI/ML
 - Microservices 
