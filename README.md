@@ -5,7 +5,7 @@
 - 🏊‍♂️ Swimming in AI/ML & Microservices
 
 - **Weapon of Choice:**
-- JavaScript, Python, noSQL (MongoDB), C++
+- JavaScript, Python, C++, noSQL (MongoDB)
 - **Tech Stack:**
 - React.js, Node.js, CSS & SASS
 
