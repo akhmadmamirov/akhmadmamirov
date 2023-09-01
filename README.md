@@ -1,5 +1,5 @@
 # Akhmadillo Mamirov
-![starsLinkedinBackground](https://github.com/akhmadmamirov/akhmadmamirov/assets/105142060/d293f742-b38b-4375-a36b-7660baf4597a)
+![starsLinkedinBackground](https://github.com/akhmadmamirov/akhmadmamirov/assets/105142060/d293f742-b38b-4375-a36b-7660baf4597a){width=200 height=100}
 ## About Me
 - Computer Science Student at The College of Wooster (Class of 2026)
 - Exploring AI/ML & Microservices
