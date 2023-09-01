@@ -5,9 +5,13 @@
 - 🏊‍♂️ Swimming in AI/ML & Microservices
 
 - **Weapon of Choice:**
-- JavaScript, Python, C++, noSQL (MongoDB)
+- JavaScript, Python, C++
+  
 - **Tech Stack:**
-- React.js, Node.js, CSS & SASS
+- Languages & Frameworks: JavaScript, Python, C++, React.js, Redux, Node.js, noSQL (MongoDB), CSS, SASS.
+- Tools: Git, GitHub, BitBucket, Mongoose.
+- Cloud / Distributed Computing: AWS(EC2), Firebase.
+- Certifications: CodePath Advanced Software Engineering(TIP 103)
 
 ## Experience
 |************************************************************************************************|
@@ -23,4 +27,4 @@ GraphGrid CDP, resulting in 25% faster load times and a 40% reduction in user-re
 instance types, improving the efficiency of resource allocation and bolstering the application's performance.
 - Boosted Scalability and Codebase Stability: Led upgrades of Node.js and React across the codebase, resulting in
 heightened scalability and code maintainability, while also significantly reducing runtime errors.
-
+|************************************************************************************************|
