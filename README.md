@@ -10,9 +10,12 @@
 - React.js, Node.js, CSS & SASS
 
 ## Experience
+|************************************************************************************************|
 - **Google Developer Student Clubs:** | Founder & Lead | August 2023 - Present
 - Established and spreadheading the first GDSC at The College of Wooster
 
+  
+|************************************************************************************************|
 - 💼 **AtomRain Inc** | Software Engineer Intern | May - July, 2023
 - Optimized UI Performance by revitalizing React and Redux UI components (Security, Payment, Billing) for the
 GraphGrid CDP, resulting in 25% faster load times and a 40% reduction in user-reported glitches.
