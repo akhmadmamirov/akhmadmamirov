@@ -6,6 +6,6 @@
 - Exploring AI/ML & Microservices
 
 ## Weapon of Choice
-- JavaScript, Python, C++
+- C++, Python, JavaScript 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/akhmadillomamirov/)
