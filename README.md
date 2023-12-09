@@ -7,11 +7,11 @@
   
 ## 🎮 Experience
 
-⚽ **Incoming: Intern at Electronic Arts (EA)**
+⚽ **Incoming: Electronic Arts (EA)**
    - **Position:** Software Engineer Intern
    - **Duration:** May - August 2024
 
-🌟 **Former: Intern at AtomRain Inc**
+🌟 **Formerly: AtomRain Inc**
    - **Position:** Software Engineer Intern
    - **Duration:** May - July 2023
 
