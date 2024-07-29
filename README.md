@@ -9,7 +9,7 @@ Future Tech Lead and software engineer, specializing in designing, building, and
   
 ## 🎮 Experience
 
-⚽ **Incoming: Electronic Arts (EA)**
+⚽ **Electronic Arts (EA)**
    - **Position:** Software Engineer Intern
    - **Duration:** May - August 2024
 
