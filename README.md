@@ -16,11 +16,11 @@ Future Tech Lead and software engineer, specializing in designing, building, and
    - **Position:** Software Engineer Intern
    - **Duration:** May - August 2024
 
-🌟 **Formerly: AtomRain Inc**
+🌟 **AtomRain Inc**
    - **Position:** Software Engineer Intern
    - **Duration:** May - July 2023
 
-## Weapon of Choice 🔫
+## Skills:
 - C++, Python, JavaScript 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/akhmadillomamirov/)
