@@ -21,6 +21,6 @@ Future Tech Lead and software engineer, specializing in designing, building, and
    - **Duration:** May - July 2023
 
 ## Skills:
-- C++, Python, JavaScript 
+- Java, C++, Python, JavaScript 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/akhmadillomamirov/)
