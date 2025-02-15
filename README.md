@@ -4,8 +4,7 @@ Future Tech Lead and software engineer, specializing in designing, building, and
 ![techStack](https://github.com/akhmadmamirov/akhmadmamirov/assets/105142060/04914f33-870e-4fd1-9913-be4aff89f716)
 
 ## 🐳 About Me
-- CS @ The College of Wooster (May, 2026)
-- Playing, Breaking, Building - AI/ML & Microservices
+- CS @ The College of Wooster
   
 ## 🎮 Experience
 ⚽ **Electronic Arts (EA)**
