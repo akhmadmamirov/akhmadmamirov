@@ -8,10 +8,6 @@ Future Tech Lead and software engineer, specializing in designing, building, and
 - Playing, Breaking, Building - AI/ML & Microservices
   
 ## 🎮 Experience
-☁️ **Salesforce**
-   - **Position:** Incoming Software Engineer Intern
-   - **Duration:** May - August 2025
-
 ⚽ **Electronic Arts (EA)**
    - **Position:** Software Engineer Intern
    - **Duration:** May - August 2024
