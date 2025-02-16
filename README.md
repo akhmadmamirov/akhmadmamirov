@@ -21,5 +21,5 @@ I enjoy working on backend and distributed systems projects.
 I think best while I am walking 🚶‍♂️!
 
 ## 🔍 Where to Find Me
-- **LinkedIn:** https://www.linkedin.com/in/akhmadilloamamirov
+- **LinkedIn:** https://www.linkedin.com/in/akhmadillomamirov
 - **Portfolio:** www.goakhmad.com
