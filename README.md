@@ -1,5 +1,3 @@
-![techStack](https://github.com/akhmadmamirov/akhmadmamirov/assets/105142060/04914f33-870e-4fd1-9913-be4aff89f716)
-
 ## About Me
 🎓 CS @ The College of Wooster. 
 
